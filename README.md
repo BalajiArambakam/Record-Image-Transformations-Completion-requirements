@@ -155,7 +155,7 @@ plt.axis('off')
 - 90° rotated image is displayed  
 
 ---
-## Output
+
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/15e559da-93b8-4949-ae13-f46dacfa0aba" /><br>
 
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/e20c3e71-49ed-4cc4-bf78-51b42f5ba852" /><br>
